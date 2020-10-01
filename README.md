@@ -3,7 +3,7 @@
 クレームデータを分析して、早期に不具合を検知し根本原因を特定します。企業としては、ワランティコストの削減、顧客満足度の向上が期待されます。
 
 <br><br>
-<img src="https://user-images.githubusercontent.com/3815677/94828618-9c35f080-0444-11eb-8903-46edf2d0990f.gif" width = 500><br/>
+<img src="https://user-images.githubusercontent.com/3815677/94828618-9c35f080-0444-11eb-8903-46edf2d0990f.gif" width = 800><br/>
 <br><br>
 
 #### よくある課題と対策
