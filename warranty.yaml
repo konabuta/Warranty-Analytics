@@ -1,0 +1,16 @@
+name: warranty
+channels:
+  - defaults
+dependencies:
+  - notebook=6.1.4=py36_0
+  - ipykernel=5.3.4=py36h5ca1d4c_0
+  - python==3.6.12
+  - pip:
+    - azure-ai-textanalytics==5.0.0
+    - japanize-matplotlib==1.1.2
+    - matplotlib==3.2.1
+    - networkx==2.5
+    - numpy==1.18.2
+    - pandas==1.0.3
+prefix: /anaconda/envs/warranty
+
