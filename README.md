@@ -27,6 +27,7 @@
 
 ## 開発環境の準備
 
+[Azure Machine Learning の Compute Instance](https://docs.microsoft.com/ja-jp/azure/machine-learning/concept-compute-instance) で下記コマンドを実行します。
 **conda 仮想環境 (warranty) の作成**
 ```bash
 conda create -n warranty python=3.6 
@@ -52,6 +53,7 @@ ipython kernel install --user --name=$env_name  --display-name=$env_name
 ### 分析方法
 - キーフレーズ抽出
 - テキスト分類
+- Word Cloud
 - Knowledge Graph
 - トピック抽出 (not yet implemented)
 - Sanky Diagram (not yet implemented)
